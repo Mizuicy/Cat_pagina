@@ -1,0 +1,18 @@
+h2{
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.sobre_verde{
+    background-color: rgb(77, 253, 77);
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+    padding: 56px 0;
+}
+
+.flex-container{
+    display: flex;
+}

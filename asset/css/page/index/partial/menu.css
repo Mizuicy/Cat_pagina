@@ -1,0 +1,27 @@
+.Menu{
+    padding: 15px 0px;
+    text-align: center;
+}
+
+.Menu li{
+    display: inline;
+    margin-right:10px;
+    padding-right: 27px ;
+    background-image: url("/asset/img/patinha-preta.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+.Menu li:hover{
+    background-color: rgb(255, 210, 210);
+    background-size: 18px;
+}
+
+#itemContato {
+    background-image: none;
+}
+
+.Menu a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
