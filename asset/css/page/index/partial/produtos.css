@@ -1,0 +1,38 @@
+#produto .flex-container{
+    margin-top: 50px;
+}
+
+.produto{
+    width: 235px;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.produto figure{
+    border:  1px solid #c4c4c4;
+    background-color: #fff;
+    margin: 0 0 15px 0;
+    padding: 0px;
+    height: 160px;
+    text-align: center;
+}
+
+.peosuto figure img{
+    vertical-align: middle;
+}
+
+.texto-centralizado{
+    text-align: center;
+}
+
+.btn-pata{
+    border: 1px solid #91e467;
+    background-color: #91e467;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
