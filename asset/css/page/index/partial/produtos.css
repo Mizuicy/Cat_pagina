@@ -7,9 +7,11 @@
 }
 .flex-container{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
-
+.flex-container .col{
+    width: 430px;
+}
 .produto figure{
     border:  1px solid #c4c4c4;
     background-color: #fff;
