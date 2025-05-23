@@ -38,3 +38,20 @@
     padding: 10px 20px;
     border-radius: 5px;
 }
+form{
+    width: 380px;
+}
+
+form input,
+form textarea{
+    width: 100%;
+    border: 1px solid #91e467;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+iframe{
+    width: 100%;
+}
